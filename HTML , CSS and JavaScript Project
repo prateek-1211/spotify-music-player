@@ -150,8 +150,7 @@ h3, p
     opacity: 0;
     transition: opacity 0.8s ease-in;
 }
-
-    </style>
+</style>
     
   </head>
   <body>
@@ -204,7 +203,7 @@ h3, p
             src="https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"
             alt="1.mp3"
           />
-          <span class="sonngName">Dil - Ek Villan Returns(2022)</span>
+          <span class="songName">Dil - Ek Villan Returns(2022)</span>
           <span class="songListplay"
             ><span class="timestamp"
               >05:09<i id="0" class="bi songItemPlay bi-play-circle"></i></span
@@ -215,21 +214,21 @@ h3, p
             src="https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"
             alt="2.mp3"
           />
-          <span class="sonngName">Duniyaa - Luka Chuppi(2019)</span>
+          <span class="songName">Duniyaa - Luka Chuppi(2019)</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >03:42<i id="1" class="bi songItemPlay  bi-play-circle"></i></span
+              >03:42<i id="1" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
         <img
-            src="https://i.ytimg.com/vi/VuG7ge_8I2Y/hqdefault.jpg"
+            src="https://i0.wp.com/pushpalyrics.com/wp-content/uploads/2022/12/maan-meri-jaan-lyrics.jpg?fit=480%2C360&ssl=1"
             alt="3.mp3"
           />
-          <span class="sonngName">Maan Meri jaan(2022)</span>
+          <span class="songName">Maan Meri jaan(2022)</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >03:14<i id="2" class="bi songItemPlay  bi-play-circle"></i></span
+              >03:14<i id="2" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -237,10 +236,10 @@ h3, p
             src="https://www.ilyricshub.com/wp-content/uploads/2020/09/tu-aake-dekhle-king.jpg"
             alt="4.mp3"
           />
-          <span class="sonngName">Tu ake dekh le(2022)</span>
+          <span class="songName">Tu ake dekh le(2022)</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >05:23<i id="3" class="bi songItemPlay  bi-play-circle"></i></span
+              >05:23<i id="3" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -248,10 +247,10 @@ h3, p
             src="https://c.saavncdn.com/264/Ranjha-From-Shershaah--Hindi-2021-20210804173407-500x500.jpg"
             alt="5.mp3"
           />
-          <span class="sonngName">Ranjha - SHERSHAAH(2021)</span>
+          <span class="songName">Ranjha - SHERSHAAH(2021)</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >03:48<i id="4" class="bi songItemPlay  bi-play-circle"></i></span
+              >03:48<i id="4" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -259,10 +258,10 @@ h3, p
             src="https://i.ytimg.com/vi/I5ZEEaixfrQ/maxresdefault.jpg"
             alt="6.mp3"
           />
-          <span class="sonngName">Humnava Mere Baarish - MixTape</span>
+          <span class="songName">Humnava Mere Baarish - MixTape</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >05:39<i id="5" class="bi songItemPlay  bi-play-circle"></i></span
+              >05:39<i id="5" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -270,10 +269,10 @@ h3, p
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0P4TmTzXxY9HNqjhbTTcZ4pZ0EggALj1cYnSrDG_3nD1_CV47ifVkqaAThtkhG73jwk&usqp=CAU"
             alt="7.mp3"
           />
-          <span class="sonngName">ON My Way</span>
+          <span class="songName">ON My Way</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >03:13<i id="6" class="bi songItemPlay  bi-play-circle"></i></span
+              >03:13<i id="6" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -281,10 +280,10 @@ h3, p
             src="https://i2.wp.com/thesillytv.com/wp-content/uploads/2021/08/mixtape.jpg?fit=1024%2C576&ssl=1"
             alt="8.mp3"
           />
-          <span class="sonngName">Tumse Milna Is Kadar - MixTape</span>
+          <span class="songName">Tumse Milna Is Kadar - MixTape</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >04:04<i id="7" class="bi songItemPlay  bi-play-circle"></i></span
+              >04:04<i id="7" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -292,10 +291,10 @@ h3, p
             src="https://c.saavncdn.com/151/Ek-Villain-Hindi-2014-500x500.jpg"
             alt="9.mp3"
           />
-          <span class="sonngName">Humdard - Ek Villan (2017)</span>
+          <span class="songName">Humdard - Ek Villan (2017)</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >04:20<i id="8" class="bi songItemPlay  bi-play-circle"></i></span
+              >04:20<i id="8" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
         <div class="songItem">
@@ -303,10 +302,10 @@ h3, p
             src="https://www.ilyricshub.com/wp-content/uploads/2017/01/3-Peg-Lyrics.png"
             alt="10.mp3"
           />
-          <span class="sonngName">3 peg - Punjabi Song</span>
+          <span class="songName">3 peg - Punjabi Song</span>
           <span class="songListplay"
             ><span class="timestamp"
-              >03:24<i id="9" class="bi songItemPlay  bi-play-circle"></i></span
+              >03:24<i id="9" class="bi songItemPlay bi-play-circle"></i></span
           ></span>
         </div>
       </div>
@@ -315,7 +314,7 @@ h3, p
     <div class="songBanner"></div>
 
     <div class="bottom">
-      <input type="range" name="range" id="myProgressBar" min="0" max="100" />
+      <input type="range" name="range" id="myProgressBar" min="0" value="0" max="100" />
       <div class="icons">
         <i class="bi bi-skip-backward-circle" id="previous"></i>
         <i class="bi bi-play-circle" id="masterPlay"></i>
@@ -327,103 +326,106 @@ h3, p
           src="https://i.pinimg.com/originals/53/b5/55/53b555c98e73777b01a4d25a0a5d2b77.gif"
           alt=""
           id="gif"
-        />Dil - Ek Villan Returns(2022)
+        /><span id="masterSongName"></span>
       </div>
     </div>
     <script src="script.js"></script>
-    
     <script>
        alert("Welcome to Spotify");
 
+alert("Welcome to Spotify");
+
 // intialize the variables
 let songIndex = 0;
-let audioElement = new Audio('./songs/1.mp3');
+let audioElement = new Audio('./song/1.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('gif');
+let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
+// let addEventListener = Array.from(document.getElementById('addEventListner'));
 
 let songs = [
-    {songName: "Dil - Ek Villan Returns(2022)",filePath: "./songs/1.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
-    {songName: "Duniyaa - Luka Chuppi(2019)",filePath: "./songs/2.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
-    {songName: "Maan Meri jaan(2022)",filePath: "./songs/3.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
-    {songName: "Tu ake dekh le(2022)",filePath: "./songs/4.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
-    {songName: "Ranjha - SHERSHAAH(2021)",filePath: "./songs/5.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
-    {songName: "Humnava Mere Baarish - MixTape",filePath: "./songs/6.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
-    {songName: "ON My Way",filePath: "./songs/7.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
-    {songName: "Tumse Milna Is Kadar - MixTape",filePath: "./songs/8.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
-    {songName: "Humdard - Ek Villan (2017)",filePath: "./songs/9.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
-    {songName: "3 peg - Punjabi Song",filePath: "./songs/10.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
+    {songName: "Dil - Ek Villan Returns(2022)",filePath: "./song/1.mp3", coverPath: "https://i.ytimg.com/vi/swPhyd0g6K8/maxresdefault.jpg"},
+    {songName: "Duniyaa - Luka Chuppi(2019)",filePath: "./song/2.mp3", coverPath: "https://i.ytimg.com/vi/TbkJ5HhFXdg/maxresdefault.jpg"},
+    {songName: "Maan Meri jaan(2022)",filePath: "./song/3.mp3", coverPath: "https://i0.wp.com/pushpalyrics.com/wp-content/uploads/2022/12/maan-meri-jaan-lyrics.jpg?fit=480%2C360&ssl=1"},
+    {songName: "Tu ake dekh le(2022)",filePath: "./song/4.mp3", coverPath: "https://i0.wp.com/lyricsted.com/wp-content/uploads/2022/05/Tu-Aake-Dekh-Le-Lyrics.jpg"},
+    {songName: "Ranjha - SHERSHAAH(2021)",filePath: "./song/5.mp3", coverPath: "https://c.saavncdn.com/264/Ranjha-From-Shershaah--Hindi-2021-20210804173407-500x500.jpg"},
+    {songName: "Humnava Mere Baarish - MixTape",filePath: "./song/6.mp3", coverPath: "https://i.ytimg.com/vi/I5ZEEaixfrQ/maxresdefault.jpg"},
+    {songName: "ON My Way",filePath: "./song/7.mp3", coverPath: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0P4TmTzXxY9HNqjhbTTcZ4pZ0EggALj1cYnSrDG_3nD1_CV47ifVkqaAThtkhG73jwk&usqp=CAU"},
+    {songName: "Tumse Milna Is Kadar - MixTape",filePath: "./song/8.mp3", coverPath: "https://i2.wp.com/thesillytv.com/wp-content/uploads/2021/08/mixtape.jpg?fit=1024%2C576&ssl=1"},
+    {songName: "Humdard - Ek Villan (2017)",filePath: "./song/9.mp3", coverPath: "https://c.saavncdn.com/151/Ek-Villain-Hindi-2014-500x500.jpg"},
+    {songName: "3 peg - Punjabi Song",filePath: "./song/10.mp3", coverPath: "https://www.ilyricshub.com/wp-content/uploads/2017/01/3-Peg-Lyrics.png"},
 ]
 
-// songItems.forEach((element, i)=>{
-//     console.log(e.target);
-//     element.getElementsByTagName("img")[0].src = songs[i].coverPath;
-//     element.getElementsByClassName("songName")[0].innerText = songs[i].songName;
-// })
+songItems.forEach((element, i)=>{
+    // console.log(element, i);
+    element.getElementsByTagName("img")[0].src = songs[i].coverPath;
+    element.getElementsByClassName("songName")[0].innerText = songs[i].songName;
+})
 
 // audioElement.play();
 
 // Handle play/pause click
-masterPlay.addEventListener('click', ()=>{
-    if(audioElement.paused || audioElement.currentTime<=0){
+masterPlay.addEventListener('click',()=>
+{
+    if (audioElement.paused || audioElement.currentTime<=0) {
         audioElement.play();
-        console.log("hello")
-        masterPlay.classList.remove('bi-play-circle')
-        masterPlay.classList.add('bi-pause-circle')
+        masterPlay.classList.remove('bi-play-circle');
+        masterPlay.classList.add('bi-pause-circle');
         gif.style.opacity = 1;
     }
     else{
         audioElement.pause();
-        masterPlay.classList.remove('bi-pause-circle')
-        masterPlay.classList.add('bi-play-circle')
+        masterPlay.classList.remove('bi-pause-circle');
+        masterPlay.classList.add('bi-play-circle');
         gif.style.opacity = 0;
     }
 })
-// listen to events
-myProgressBar.addEventListener('timeupdate', ()=>{
+// Listen to Event
+audioElement.addEventListener('timeupdate', ()=>{
     console.log('timeupdate');
     // update seekbar
     progress = parseInt((audioElement.currentTime/audioElement.duration)* 100);
-    console.log(progress);
+    // console.log(progress);
     myProgressBar.value = progress;
 })
-
 myProgressBar.addEventListener('change', ()=>{
     audioElement.currentTime = myProgressBar.value * audioElement.duration/100;
 })
-
 const makeAllPlays = ()=>{
     Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=>{
+        // makeAllPlays();
         element.classList.remove('bi-pause-circle');
-        element.classList.add('bi-play-circle');
+        element.classList.add('bi-play-circle'); 
     })
 }
 Array.from(document.getElementsByClassName('songItemPlay')).forEach((element)=>{
     element.addEventListener('click', (e)=>{
-        
+        // console.log(e.target);
         makeAllPlays();       
-        index = parseInt(e.target.id);
+        songIndex = parseInt(e.target.id);
         e.target.classList.remove('bi-play-circle');
         e.target.classList.add('bi-pause-circle');      
-        audioElement.src = './songs/${songIndex+1}.mp3';
+        audioElement.src = `./song/${songIndex+1}.mp3`;
         masterSongName.innerText = songs[songIndex].songName;
         audioElement.currentTime = 0;
         audioElement.play();
+        gif.style.opacity = 1;
         masterPlay.classList.remove('bi-play-circle');
         masterPlay.classList.add('bi-pause-circle');
     })    
 })
 
 document.getElementsById('next').addEventListener('click', ()=>{
-    if(songIndex>=10){
+    if(songIndex>=9){
         songIndex = 0;
     }
     else{
         songIndex += 1;
     }
-    audioElement.src = './songs/${songIndex+1}.mp3';
-    masterSongName.innerText = songs[songIndex].songName;
+    audioElement.src = `./song/${songIndex+1}.mp3`;
+    masterSongName.innerText = songs[songIndex].songName;     
     audioElement.currentTime = 0;
     audioElement.play();
     masterPlay.classList.remove('bi-play-circle');
@@ -437,14 +439,14 @@ document.getElementsById('previous').addEventListener('click', ()=>{
     else{
         songIndex -= 1;
     }
-    audioElement.src = './songs/${songIndex+1}.mp3';
+    audioElement.src = './song/${songIndex+1}.mp3';
     masterSongName.innerText = songs[songIndex].songName;
     audioElement.currentTime = 0;
     audioElement.play();
     masterPlay.classList.remove('bi-play-circle');
     masterPlay.classList.add('bi-pause-circle');
 })
-    </script>
+</script>
     
   </body>
 </html>
